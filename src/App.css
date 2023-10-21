@@ -1,0 +1,22 @@
+.App {
+  padding: 20px;
+  margin: 20px;
+  font-size: small;
+}
+
+.Topo {
+  background-color: rgb(255, 255, 255);
+  margin: 30px;
+  font-size: small;
+}
+
+h1 {
+  color: white;
+}
+
+.Rodape {
+  margin: 30px;
+  height: auto;
+  margin-top: 5vh;
+  font-weight: 600;
+}
